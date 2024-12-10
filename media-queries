@@ -23,7 +23,7 @@
 
    }
  
- /*Extra Extra large devices (large desktops, 1200px and up)*/
+ /*Extra Extra large devices (large desktops, 1400px and up)*/
 @media (min-width: 1400px) {
 
   }
